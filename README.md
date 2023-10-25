@@ -1,9 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Ankur Vasta</h1>
-<h3 align="center">🚀 Software Engineer | 🌐 Web Developer |💡Crafting Digital Solutions with Passion <br>🔹 Full Stack Developer | Python, Java, C++, JavaScript, React, MERN Stack <br> 🔹 Enthusiastic Problem Solver | Code Explorer | Tech Enthusiast <br> 🌱 Constantly learning and exploring new tools and languages.</h3>
+<h1 align="center">Hi 👋, I'm Ankur Vasta</h1>  
+  
+🚀 Software Engineer | 🌐 Web Developer |💡Crafting Digital Solutions with Passion <br>🔹 Full Stack Developer | Python, Java, C++, JavaScript, React, MERN Stack <br> 🔹 Enthusiastic Problem Solver | Code Explorer | Tech Enthusiast <br> 🌱 Constantly learning and exploring new tools and languages.  
 
 <br>
-
+  
 <p>🔧 I'm passionate about building user-friendly web applications with cutting-edge technologies. My favorite stack includes React, Node.js, Experss and TailwindCss.
 </p>
 
